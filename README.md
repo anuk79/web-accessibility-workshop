@@ -6,7 +6,7 @@
 
 ### Accessible Design
 1. Color contrast
-    - Identify color contrast issues for given website using lighthouse
+    - Identify color contrast issues for given website using lighthouse - https://www.smallcase.com/
     - Use the dev tools to inspect the element with contrast issue and check its color
 
 2. Form design issues
