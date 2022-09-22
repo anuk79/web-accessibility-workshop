@@ -14,11 +14,11 @@
 
 
 ### Accessible Coding
-1. Semantic HTML
+1. [Semantic HTML](https://codesandbox.io/s/a11y-semantic-html-o1t8by?file=/index.html)
     - Find out the accessibility issues for given website
     - Fix them
 
-2. Animation
+2. [Animation](https://codesandbox.io/s/a11y-animation-krdwgi)
     - Find out the accessibility issues for given website
     - Fix them
 
