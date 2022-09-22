@@ -19,12 +19,14 @@
     - Use only keyboard and see what are the issues
     - Use lighthouse and observe the errors
     - Fix them
+    - [Check solution](https://codesandbox.io/s/a11y-semantic-html-solution-fk7kl1)
 
 2. [Animation](https://codesandbox.io/s/a11y-animation-krdwgi)
     - Find out the accessibility issues for given website
     - Fix using the css media query - prefered-reduced-motion
     - try to play with emulation of prefered-reduced-motion in devtools, or in your system user preferences
     - Observe how animation responds to the device settings
+    - [Check solution](https://codesandbox.io/s/a11y-animation-solution-91zq6n)
 
 ### Testing for acessibility
 1. Navigate given website with only keyboard and find out issues - and their probable solutions
